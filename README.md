@@ -1,16 +1,49 @@
-# React + Vite
+ClinicPesa - React Technical Assignment
+🎉 Interview Technical Assignment
+Thank you for the opportunity to proceed to the next stage! This repository contains my implementation of the clinicPesa home dashboard screen as specified in the technical assignment.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📋 Assignment Requirements Fulfilled
+✅ Core Components Implemented
+🎯 Top Bar & Greeting
 
-Currently, two official plugins are available:
+clinicPesa app name prominently displayed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Personalized greeting: "Good Morning, Robert"
 
-## React Compiler
+💰 Savings Card
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Balance: UGX 50,000
 
-## Expanding the ESLint configuration
+Frequency: Monthly
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+AutoSave amount: UGX 1,000
+
+Eye icon for balance visibility (implemented with toggle functionality)
+
+📑 Tabs Navigation
+
+Account Options (active tab)
+
+Invest
+
+Transactions
+
+🃏 Action Cards
+
+Pay Medical Bill
+
+Get Loan
+
+Join MaMas
+
+My Approvals
+
+🛠 Technical Implementation
+Tech Stack
+React 18 with functional components and hooks
+
+JavaScript (as preferred in the assignment)
+
+CSS3 with modern features
+
+React Router DOM for scalable navigation structure
