@@ -64,14 +64,13 @@ Semantic HTML for accessibility compliance
 Progressive enhancement for cross-browser compatibility
 
 System Setup and Installation
-4. Prerequisites
 Node.js Version 22 (Required)
 
 npm package manager
 
 nvm (Node Version Manager) recommended
 
-5. Installation & Setup Process
+Installation & Setup Process
 Step 1: Install Node Version 22
 nvm install 22
 nvm use 22
